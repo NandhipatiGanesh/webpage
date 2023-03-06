@@ -1,6 +1,7 @@
 import streamlit as st
 from streamlit_option_menu import option_menu
 
+
 # as horizontal menu
 selected = option_menu(
     menu_title="Main Menu",  # required
